@@ -1,1 +1,1 @@
-# Kangaroo-Running-39
+Press space to jump. Avoid obstacles. 
